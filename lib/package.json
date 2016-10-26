@@ -1,0 +1,24 @@
+{
+  "name": "lib",
+  "version": "1.0.0",
+  "description": "Twitter bot for examing how tweets affect a companies rep",
+  "main": "index.js",
+  "dependencies": {
+    "node-tweet-stream": "^2.0.1",
+    "twitter": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamie00170/twitter_rep_bot.git"
+  },
+  "author": "Jamie Dale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamie00170/twitter_rep_bot/issues"
+  },
+  "homepage": "https://github.com/jamie00170/twitter_rep_bot#readme"
+}
